@@ -5,7 +5,7 @@ Little Lemon Project APIs
 
 API Avaliable:
 
-http://127.0.0.1:8000/restaurant/
+http://127.0.0.1:8000/restaurant/ <br />
 http://127.0.0.1:8000/restaurant/booking/tables/
 http://127.0.0.1:8000/restaurant/booking/tables/<int>/
 http://127.0.0.1:8000/restaurant/menu/
