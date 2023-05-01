@@ -6,13 +6,13 @@ Little Lemon Project APIs
 API Avaliable:
 
 http://127.0.0.1:8000/restaurant/ <br />
-http://127.0.0.1:8000/restaurant/booking/tables/
-http://127.0.0.1:8000/restaurant/booking/tables/<int>/
-http://127.0.0.1:8000/restaurant/menu/
-http://127.0.0.1:8000/restaurant/menu/<int>/
-http://127.0.0.1:8000/auth/users/
-http://127.0.0.1:8000/auth/users/me/
-http://127.0.0.1:8000/auth/token/login
+http://127.0.0.1:8000/restaurant/booking/tables/ <br />
+http://127.0.0.1:8000/restaurant/booking/tables/<int>/ <br />
+http://127.0.0.1:8000/restaurant/menu/ <br />
+http://127.0.0.1:8000/restaurant/menu/<int>/ <br />
+http://127.0.0.1:8000/auth/users/ <br />
+http://127.0.0.1:8000/auth/users/me/ <br />
+http://127.0.0.1:8000/auth/token/login <br />
 
 
 
